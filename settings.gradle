@@ -1,0 +1,2 @@
+include ':app', ':myapplicationlibrary'
+rootProject.name='My App Lib'
